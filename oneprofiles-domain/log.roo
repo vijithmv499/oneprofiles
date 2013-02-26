@@ -1,0 +1,21 @@
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-23 21:34:27
+module create --moduleName oneprofiles-repository-jpa --topLevelPackage com.oneprofiles.repositories --parent com.oneprofiles:oneprofiles-parent:0.1.0.BUILD-SNAPSHOT
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-23 21:40:15
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-24 03:33:47
+// [failed] persistence setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-24 03:38:40
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-24 03:38:45
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-24 03:52:04
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-24 03:52:07
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-24 04:22:18
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-24 14:05:19
+quit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-24 14:05:49
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-24 16:28:24
+// [failed] persistence setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY 
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-24 16:49:16

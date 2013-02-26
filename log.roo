@@ -1,0 +1,14 @@
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-23 20:40:05
+project --topLevelPackage com.oneprofiles --packaging POM --java 7
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-23 20:48:57
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-23 20:50:49
+module create --moduleName one-profiles-domain --topLevelPackage com.oneprofiles.comain --parent com.oneprofiles:oneprofiles-parent:0.1.0.BUILD-SNAPSHOT
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-23 21:02:31
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-23 21:02:38
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-23 21:28:51
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-02-23 21:28:58
+exit
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-02-23 21:33:59
